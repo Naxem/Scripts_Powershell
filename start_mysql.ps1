@@ -23,5 +23,3 @@ if (Get-Service -Name $serviceNom -ErrorAction SilentlyContinue) {
 
 # Ajouter une pause pour maintenir la fenêtre ouverte
 Read-Host "Appuyez sur Entree pour quitter..."
-
-

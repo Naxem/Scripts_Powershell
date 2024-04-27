@@ -1,8 +1,8 @@
 # Chemin vers le script PowerShell
-$cheminScript = "C:\Users\maxen\Documents\GitHub\script_start_serv_sql\start_mysql.ps1"
+$cheminScript = "C:\Users\maxen\Documents\GitHub\script_powershell\start_mysql.ps1"
 
 # Chemin vers le raccourci à créer
-$cheminRaccourci = "C:\Users\maxen\Documents\GitHub\script_start_serv_sql\start_mysql.lnk"
+$cheminRaccourci = "C:\Users\maxen\Documents\GitHub\script_powershell\start_mysql.lnk"
 
 # Créer un objet WScript.Shell
 $shell = New-Object -ComObject WScript.Shell
